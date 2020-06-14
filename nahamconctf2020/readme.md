@@ -1,0 +1,27 @@
+## NahamCon CTF
+My writeups of all flags I found in [NahamCon CTF](https://ctftime.org/event/1067).\
+My favourites - [Official Business](Web_Exploitation/Official_Business) , [Volatile](Forensics/Volatile) and [Really Powerful Gnomes](Scripting/Really_Powerful_Gnomes).
+
+01. [Read The Rules](Warmup/Read_The_Rules)
+02. [CLIsay](Warmup/CLIsay)
+03. [Mr. Robot](Warmup/Mr.Robot)
+04. [Metameme](Warmup/Metameme)
+05. [Agent 95](Web_Exploitation/Agent_95)
+06. [Localghost](Web_Exploitation/Localghost)
+07. [Fake File](Miscellaneous/Fake_File)
+08. [Vortex](Miscellaneous/Vortex)
+09. [Trapped](Miscellaneous/Trapped)
+10. [Pang](Warmup/Pang)
+11. [Candroid](Mobile/Candroid)
+12. [Microsooft](Mobile/Forensics/Microsooft)
+13. [Cow Pie](Forensics/Cow_Pie)
+14. [Simple App](Mobile/Simple_App)
+15. [Homecooked](Cryptography/Homecooked)
+16. [UGGC](Warmup/UGGC)
+17. [Time Keeper](OSINT/Time_Keeper)
+18. [Finsta](OSINT/Finsta)
+19. [Official Business](Web_Exploitation/Official_Business)
+20. [Volatile](Forensics/Volatile)
+21. [Really Powerful Gnomes](Scripting/Really_Powerful_Gnomes)
+22. [Alkatraz](Miscellaneous/Alkatraz)
+23. [Feedback](Feedback)
