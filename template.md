@@ -4,7 +4,7 @@ Points:
 
 ## Problem Statement
 
-Attacment : "file"
+Attachment : "file"
 ## Solution
 
 ## Flag
